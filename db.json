@@ -1,0 +1,48 @@
+{"result":[
+  {
+    "key": "3c4ec732-21ec-683e-e4d4-0bf25a1ccf3e",
+    "icon": null,
+    "text": "Item1",
+    "parentKey": "",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+  },
+  {
+    "key": "67b049b2-c9ef-dde8-fd0e-fea64467dee1",
+    "icon": null,
+    "text": "Item2",
+    "parentKey": "3c4ec732-21ec-683e-e4d4-0bf25a1ccf3e",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+  },
+  {
+    "key": "67a765bd-d090-11e6-ccc1-32f7cb5defae",
+    "icon": null,
+    "text": "Item3",
+    "parentKey": "",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+  },
+  {
+    "key": "c8134649-266a-164f-7ef1-1f21e05b5b71",
+    "icon": null,
+    "text": "Item1.2",
+    "parentKey": "3c4ec732-21ec-683e-e4d4-0bf25a1ccf3e",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+   },
+  {
+    "key": "a8132549-263a-124f-7ef1-1f51e05b5a71",
+    "icon": null,
+    "text": "Item4",
+    "parentKey": "67a765bd-d090-11e6-ccc1-32f7cb5defae",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+   }
+]
+}
